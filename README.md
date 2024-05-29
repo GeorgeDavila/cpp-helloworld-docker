@@ -1,4 +1,12 @@
-cpp-helloworld-docker
+# to run C++ locally 
+
+On ubuntu install g++ with `sudo apt-get install g++` then you can run `g++ hello.cpp` to compile a program. Then `./a.out` to run the compiled file. 
+
+
+https://www.geeksforgeeks.org/compiling-with-g-plus-plus/
+https://www.tutorialspoint.com/How-to-compile-and-run-the-Cplusplus-program
+
+# cpp-helloworld-docker
 
 This is a C++ Hello World program built into a smallish final docker image, via basic multi-stage build
 
